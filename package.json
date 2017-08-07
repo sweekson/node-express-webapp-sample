@@ -1,0 +1,14 @@
+{
+  "name": "webapp",
+  "version": "0.1.0",
+  "description": "A simple web app with Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": "https://github.com/sweekson/tm-etp-webapp",
+  "author": "Wilson Su <sweekson@gmail.com>",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
